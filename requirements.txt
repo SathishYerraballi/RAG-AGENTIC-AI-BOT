@@ -1,0 +1,8 @@
+LangChain
+Mistral API or Any API key
+FAISS Vector Database
+Streamlit
+RecursiveCharacterTextSplitter
+PYPDF
+
+
